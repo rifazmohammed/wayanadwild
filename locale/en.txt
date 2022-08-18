@@ -1,0 +1,97 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Wayanad Wild
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE.label = Wayanad wild
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_11.label = Wayanad Wild BalconywithMountainview
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_18.label = Wayanad Wild CGH Earth 2
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_21.label = Wayanad Wild CGH Earth 5
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_27.label = Wayanad Wild CGH Earth 11
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_28.label = Wayanad Wild cottages
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_32.label = Wayanad Wild Nature
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_34.label = Wayanad Wild Nature2
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_41.label = Wayanad Wild Walking upstream
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_5.label = Wayanad Wild - Pools side 2
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_6.label = Wayanad Wild - restaurant dining
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_7.label = Wayanad Wild - swim between the trees
+album_C56C1508_C9CF_8246_41E1_FB36C818F3DE_8.label = Wayanad Wild - VIew from the resort
+panorama_BED03549_B49B_409B_41BD_2C37F4A16201.label = Superior Room
+panorama_BED04EC9_B49B_C19B_41B5_1C743BEB4429.label = Deluxe Room with Jacuzzi
+panorama_BED052D9_B498_C1BB_41CC_77AB7F7BB56F.label = Restaurant
+panorama_BED061D4_B49B_C389_41CA_B4343391AAF6.label = Deluxe Room with Jacuzzi
+panorama_BED0656B_B498_C09E_41C8_4C18F679A587.label = Restaurant
+panorama_BED06BBF_B49B_C7F7_41C9_75AE2EB1D4B0.label = Shop
+panorama_BED0814A_B498_C099_41DF_7E7BF6EE69EE.label = Deluxe Room
+panorama_BED08704_B49B_4089_41DF_182792EF0B23.label = Deluxe Room with Jacuzzi
+panorama_BED08C40_B49B_4089_41E4_37D97910343E.label = Deluxe Room
+panorama_BED09443_B498_C08F_41B9_1B3C8C28D6E1.label = Restaurant
+panorama_BED09BDA_B498_C7B9_41D0_1811EEBF73AA.label = Entrance - Wayanad Wild
+panorama_BED0BEB7_B498_C1F7_41BC_56C831AB13E6.label = Deluxe Room
+panorama_BED0C45A_B49B_40B9_41D7_5839ED829A59.label = Deluxe Room with Jacuzzi
+panorama_BED0F989_B49B_439B_41C1_8F5D3B5DF6A1.label = Deluxe Room with Jacuzzi
+panorama_BED16685_B499_418A_41CD_A6B5C2F7A4FE.label = View from Reception
+panorama_BED39736_B49B_C089_41B2_CEEFF2527407.label = Draco Club - Natute interpretation centre
+panorama_BED3A95B_B49B_C0BF_4181_0A04C906E255.label = Shop
+panorama_BED3BCCC_B49B_4199_41DB_936B244804EF.label = Corridor - Restaurant/interpretation centre
+panorama_BED3CAED_B49B_419B_41C2_F941D289CE87.label = Guest Cottages
+panorama_BED3E2D4_B49B_4189_41B2_B044E433BE17.label = Superior Room
+panorama_BED3F01B_B49B_40BF_41DF_C46F985BA068.label = Superior Room
+panorama_BED5E822_B499_4089_41B3_B446F9FC6441.label = Reception
+panorama_BFB736EB_B499_419F_41D1_57DB663B09E0.label = Swimming pool
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A043E130_B4CE_FEE8_41BA_0B383955550C.toolTip = Deluxe Room  with Jacuzzi
+HotspotPanoramaOverlayArea_A0835685_B4C7_83A8_41D6_1A299B330B80.toolTip = Guest Cottages
+HotspotPanoramaOverlayArea_A098B1D9_B4DE_8158_41E1_DC8ECB6AC4CE.toolTip = Reception
+HotspotPanoramaOverlayArea_A10C718D_B4C9_81B8_41E3_5BB80F87CE4B.toolTip = Guest Cottages
+HotspotPanoramaOverlayArea_A158E8E7_B4C7_8F68_41E6_9184B31B71F6.toolTip = Jacuzzi
+HotspotPanoramaOverlayArea_A3CF8896_B4DA_8FA8_41E1_B8AE7C4E1BE2.toolTip = Superior Room
+HotspotPanoramaOverlayArea_A4640609_B4CA_82B8_41E2_BFA1F62001AE.toolTip = Restaurant
+HotspotPanoramaOverlayArea_A48CED91_B4C9_81A8_41C2_2571A06D60D0.toolTip = Restaurant
+HotspotPanoramaOverlayArea_A4BED883_B4AF_C18F_41DF_64BCA02A3A02.toolTip = Main entrance
+HotspotPanoramaOverlayArea_A4D82D1C_B4CE_86D8_41DD_1A315F40EF39.toolTip = Swimming Pool
+HotspotPanoramaOverlayArea_A5538BE4_B4CA_8168_41E3_1428819FFCC9.toolTip = Reception
+HotspotPanoramaOverlayArea_A56E1B1F_B4CA_82D8_41C6_BF2B6B030B05.toolTip = Reception
+HotspotPanoramaOverlayArea_A66258A8_B4DB_8FF8_41C6_9A05FFE92541.toolTip = Draco Club
+HotspotPanoramaOverlayArea_A7593DF0_B4DA_8168_41E4_FC7C3E1605D9.toolTip = Restaurant
+HotspotPanoramaOverlayArea_A7B460B9_B4C6_9FD8_41E5_45047B1EA631.toolTip = Delux Room
+HotspotPanoramaOverlayArea_A7BDD255_B4DE_82A8_41E4_FFE027B94F77.toolTip = Guest Cottages
+HotspotPanoramaOverlayArea_A7CD98EA_B4DE_8F78_41DD_A1BA378362FA.toolTip = Swimming pool
+HotspotPanoramaOverlayArea_AC0E42E8_B4D9_8378_41E2_1A97DB7D7AE3.toolTip = Guest Cottages
+HotspotPanoramaOverlayArea_BA8C6726_B4BE_82E8_41D3_734A61D235E9.toolTip = View point
+HotspotPanoramaOverlayArea_BA900FE3_B4BA_8168_41D3_F9140A1F70AA.toolTip = Reception
+HotspotPanoramaOverlayArea_BB62EF7A_B4CA_8158_41DF_3CDB3B27D1A7.toolTip = Reception
+HotspotPanoramaOverlayArea_BB94B4B5_B4C7_87E8_41E5_AB247A38A22F.toolTip = Shop
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.cghearth.com/wayanad-wild
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.cghearth.com/wayanad-wild
